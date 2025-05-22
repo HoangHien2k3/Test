@@ -1,1 +1,5 @@
-hmm
+_G.Scripts_Storage = {
+    [game.GameId] = {
+        ["Reset Character"] = {"game.Players.LocalPlayer.Character.Humanoid.Health = 0"}
+    }
+}
