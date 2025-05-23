@@ -1,1 +1,1 @@
-{[6519143992] = {["Reset Character"] = {"game.Players.LocalPlayer.Character.Humanoid.Health = 0"}}}
+{[6519143992] = {[TestScript] = {[1] = "print("testsuccess")"}, [Reset Character] = {[1] = "game.Players.LocalPlayer.Character.Humanoid.Health = 0"}}}
