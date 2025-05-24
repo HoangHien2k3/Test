@@ -1,1 +1,1 @@
-{"6519143992":{"ResetCharacter2":["game.Players.LocalPlayer.Character.Humanoid.Health = 0"]}}
+{"6519143992":{"ResetCharacter":["game.Players.LocalPlayer.Character.Humanoid.Health = 0"],"ResetCharacter2":["game.Players.LocalPlayer.Character.Humanoid.Health = 0"]}}
